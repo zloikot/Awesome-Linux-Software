@@ -686,6 +686,7 @@
 - [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) [LibreOffice](https://www.libreoffice.org/) - Arguably the most popular office suite for Linux, it is very heavily developed and widely known.
 - [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE) [OnlyOffice](https://www.onlyoffice.com/) - An office suite that charges for a cloud version of itself, but is free for other uses.
 - [WPS office](http://wps-community.org/) - A popular office suite in China, but is fully translated and functions well in English.
+- [Freeoffice](https://www.freeoffice.com/) - Office suite
 
 #### LaTeX
 - [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi) Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - Simple latex editor with templates, spell check, and wizards.
